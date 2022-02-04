@@ -6,7 +6,7 @@ BENNINI AMINE ET ABBOUD ALI
 ## EXÉCUTION DU CODE
 - open terminal
 - pip install pyspark
-- git clone 
+- git clone https://github.com/aliab43/Big_Data_projet
 - python src/script.py
 
 -----------------------------------------
